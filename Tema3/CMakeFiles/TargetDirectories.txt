@@ -1,0 +1,3 @@
+/home/fifo/Lab-PAOO/Tema3/CMakeFiles/Tema3.dir
+/home/fifo/Lab-PAOO/Tema3/CMakeFiles/edit_cache.dir
+/home/fifo/Lab-PAOO/Tema3/CMakeFiles/rebuild_cache.dir

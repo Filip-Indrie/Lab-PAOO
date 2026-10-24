@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Tema3.dir/link.d CMakeFiles/Tema3.dir/src/Playlist.cpp.o CMakeFiles/Tema3.dir/src/main.cpp.o -o Tema3
