@@ -37,7 +37,7 @@ int main() {
     cloned.printInfo();
     std::cout << std::endl;
 
-    // NRVO: The object is created in the correct place in memory, no longer needing to be moved/copied.
+    // NRVO (Named Returned Value Optimization): The object is created in the correct place in memory, no longer needing to be moved/copied.
     std::cout << "Creating from temporary return value:\n";
     Playlist imported = createDefaultFavorites();
     imported.printInfo();
