@@ -20,7 +20,7 @@ int main() {
     SensorConfigEfficient goodCfg(entry);
 
     std::cout << "\ng_globalPort has been built before running main()\n";
-    g_globalPort.transmit("PAYLOAD_TEST");
+    g_globalPort.transmit("PAYLOAD_TEST"); // fully built before main executes
 
     g_badLogger.log("Direct call to g_badLogger");
 
